@@ -3,5 +3,5 @@ channels:
 dependencies:
 - python
 - xtb
-- python-xtb
+- xtb-python 
 - ase
